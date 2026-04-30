@@ -36,3 +36,23 @@ It fetches real-time data from Binance API and predicts future price range using
 ---
 
 ## 📂 Project Structure
+
+bitcoin-project/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+└── Screenshot.png
+
+
+---
+
+## ▶️ Running the Project
+pip install -r requirements.txt
+streamlit run app.py
+
+
+---
+
+## 👩‍💻 Author
+Muskan Kumari
